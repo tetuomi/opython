@@ -164,7 +164,7 @@ accuracy = sum(test_y.data.numpy() == result.numpy()) / len(test_y.data.numpy())
 print(accuracy)
 
 
-/*
+'''
 100 	 1.19209286886246e-09
 200 	 0.0 ?
 300 	 0.0 ?
@@ -176,4 +176,4 @@ print(accuracy)
 900 	 0.0 ?
 1000 	 0.0 ?
 0.9712643678160919
-*/
+'''
