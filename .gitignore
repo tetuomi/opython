@@ -1,2 +1,6 @@
 pyTorch/*ipynb*
 pyTorch/data/**
+keras/images/**
+keras/haarcascade_frontalface_alt.xml
+keras/.ipynb_checkpoints/**
+keras/and*
